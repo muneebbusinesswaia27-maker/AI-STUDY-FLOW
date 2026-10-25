@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Flow",
+  "description": "Smart study planner with AI study plan generation, task management, focus timer, timetable scheduling, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
